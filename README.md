@@ -3,7 +3,7 @@ Egyptinator README
 
 About
 -----
-Egyptinator is an encryption program written and designed by Marzuk Rashid that is ultra mega yuge secure.
+Egyptinator is an encryption program that is ultra mega yuge secure.
 
 How it works
 ------------
